@@ -1,6 +1,6 @@
 package week1.day1;
 
-public class Learning1Day {
+public class Chrome {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -14,8 +14,8 @@ public class Learning1Day {
 		boolean Beta=false;
 		        System.out.println(Beta);
 		
-		int release=2008;
-		        System.out.println(release);
+		int releaseYear=2008;
+		        System.out.println(releaseYear);
 		       
 		char shortcutkey='c';
 		        System.out.println(shortcutkey);
