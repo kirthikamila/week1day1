@@ -1,7 +1,6 @@
 package week1.day1;
 
 public class Chrome {
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
@@ -14,7 +13,7 @@ public class Chrome {
 		boolean Beta=false;
 		        System.out.println(Beta);
 		
-		int releaseYear=2008;
+		int  releaseYear = 2008;
 		        System.out.println(releaseYear);
 		       
 		char shortcutkey='c';
@@ -24,3 +23,5 @@ public class Chrome {
 	}
 
 }
+
+
